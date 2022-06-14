@@ -1,0 +1,15 @@
+[submodule "basic-mahi-gui"]
+	path = basic-mahi-gui
+	url = git@github.com:refactormyself/basic-mahi-gui.git
+[submodule "basic-cli-repl"]
+	path = basic-cli-repl
+	url = git@github.com:refactormyself/basic-cli-repl.git
+[submodule "basic-cli-util"]
+	path = basic-cli-util
+	url = git@github.com:refactormyself/basic-cli-util.git
+[submodule "visitor-pattern"]
+	path = visitor-pattern
+	url = git@github.com:refactormyself/visitor-pattern.git
+[submodule "basic-gtest"]
+	path = basic-gtest
+	url = git@github.com:refactormyself/basic-gtest.git
